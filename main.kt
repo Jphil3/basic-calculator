@@ -1,4 +1,3 @@
 fun main(){
-    var num1 = readln().toInt()
-    println(num1)
+   println("Welcome to Calculate X\n\nPlease enter equation type\n1: Addition")
 }
